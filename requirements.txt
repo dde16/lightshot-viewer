@@ -1,0 +1,5 @@
+opencv-python
+beautifulsoup4
+requests
+cfscrape
+numpy
